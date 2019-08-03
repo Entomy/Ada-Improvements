@@ -4,6 +4,8 @@ Repository of Ada language improvement ideas.
 ## Goal
 Ada won't change, and that's okay. But there are some in the community who'd like to see an Ada-inspired language, and we should collect those ideas in as open and transparent of a process as possible.
 
+*This project is only about the language, not the standard library*.
+
 These ideas will not be implemented any time soon. I'd like to give it plenty of time for the community to discuss these matters.
 
 ## Contributing
